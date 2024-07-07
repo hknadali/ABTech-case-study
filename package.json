@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": ["email", "validation", "case-study", "albarakatech"],
+  "author": "Hakan ADALI",
+  "license": "MIT",
+  "description": "This project involves creating an npm library for email validation, designed to be used in JavaScript and React Native environments. The library provides simple email validation functionality and is published on npm for easy integration."
 }
